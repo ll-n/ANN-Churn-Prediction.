@@ -15,4 +15,3 @@ The model is trained using the provided training data and evaluated using a sepa
 
 By using an ANN for customer churn prediction, businesses can proactively identify customers at risk of churn and take appropriate actions to retain them.
 
-<img width="506" alt="Screenshot 2023-10-30 at 10 29 20 PM" src="https://github.com/ll-n/ANN-Churn-Prediction./assets/127438773/849189da-62b3-4c9f-9f86-fe4442aa0159">
